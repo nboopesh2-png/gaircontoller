@@ -1,0 +1,38 @@
+{
+    "camera_index": 0,
+    "camera_width": 640,
+    "camera_height": 480,
+    "flip_camera": true,
+    "gesture_control_enabled": true,
+    "current_mode": "VOLUME",
+    "pinch_threshold": 0.055,
+    "two_finger_threshold": 0.065,
+    "swipe_min_distance": 0.1,
+    "swipe_cooldown": 0.65,
+    "action_cooldown": 0.45,
+    "mouse_sensitivity": 1.6,
+    "mouse_smoothing": 0.35,
+    "mouse_deadzone": 0.004,
+    "brightness_min_dist": 0.03,
+    "brightness_max_dist": 0.26,
+    "brightness_smoothing": 0.25,
+    "volume_min_dist": 0.03,
+    "volume_max_dist": 0.26,
+    "volume_smoothing": 0.3,
+    "keyboard_debounce": 0.5,
+    "keyboard_hover_alpha": 0.35,
+    "reels_keys": {
+        "NEXT": "down",
+        "PREVIOUS": "up",
+        "PLAY_PAUSE": "space",
+        "MUTE": "m",
+        "LIKE": "l"
+    },
+    "media_keys": {
+        "PLAY_PAUSE": "playpause",
+        "NEXT": "nexttrack",
+        "PREVIOUS": "prevtrack",
+        "VOLUME_UP": "volumeup",
+        "VOLUME_DOWN": "volumedown"
+    }
+}
